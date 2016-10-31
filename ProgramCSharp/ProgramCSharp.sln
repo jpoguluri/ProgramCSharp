@@ -43,13 +43,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Srinivas", "Srinivas", "{3F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bhanu", "Bhanu", "{AE5880E5-1482-4D31-B33B-C7D3C4CE76C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anusha.assignment1", "anusha.assignment1\anusha.assignment1.csproj", "{F2B67CE7-9D20-4422-B4EB-F23249363C95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anusha.Assignment1", "anusha.assignment1\Anusha.Assignment1.csproj", "{F2B67CE7-9D20-4422-B4EB-F23249363C95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bhanu.assignment1", "bhanu.assignment1\bhanu.assignment1.csproj", "{F7FBCA1A-A969-467F-8C4F-FF460AF8C28A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bhanu.Assignment1", "bhanu.assignment1\Bhanu.Assignment1.csproj", "{F7FBCA1A-A969-467F-8C4F-FF460AF8C28A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "david.assignment1", "david.assignment1\david.assignment1.csproj", "{BDDF5DBB-A325-446E-A270-25BC843F346C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "David.Assignment1", "david.assignment1\David.Assignment1.csproj", "{BDDF5DBB-A325-446E-A270-25BC843F346C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grace.assignment1", "grace.assignment1\grace.assignment1.csproj", "{F63D7523-B938-43EC-990E-402FF92CABF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grace.Assignment1", "grace.assignment1\Grace.Assignment1.csproj", "{F63D7523-B938-43EC-990E-402FF92CABF4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeevan.Assignment1", "Jeevan.Assignment1\Jeevan.Assignment1.csproj", "{4C778FDD-5C6C-4C11-AC06-2BC8E3886B5D}"
 EndProject
