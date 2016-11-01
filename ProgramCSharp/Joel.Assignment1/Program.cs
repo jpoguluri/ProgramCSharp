@@ -10,6 +10,9 @@ namespace Joel.Assignment1
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Praise the LORD");
+            Console.ReadLine();
         }
     }
 }
