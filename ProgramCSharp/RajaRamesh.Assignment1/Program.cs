@@ -10,6 +10,10 @@ namespace RajaRamesh.Assignment1
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("My first commit to git");
+
         }
     }
 }
