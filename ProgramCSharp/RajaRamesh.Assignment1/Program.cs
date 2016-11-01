@@ -12,8 +12,7 @@ namespace RajaRamesh.Assignment1
         {
 
             Console.WriteLine("Hello World!");
-            Console.WriteLine("My first commit to git");
-
+           
         }
     }
 }
