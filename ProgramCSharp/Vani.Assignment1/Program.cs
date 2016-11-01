@@ -194,7 +194,7 @@ namespace Vani.Assignment1
             }
             Console.WriteLine(message);
             Console.ReadLine();
-            Console.WriteLine("Your Quiz Results Summary:");
+            Console.WriteLine("Your Quiz Results Summary: ");
             Console.WriteLine();
             Console.WriteLine("1. Number of correct answers:{0}", i);
             int P = i * 100 / 10;
