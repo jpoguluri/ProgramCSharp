@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RajaRamesh.Assignment1
+namespace Vani.Assignment2
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Hello World!");
-           
         }
     }
 }

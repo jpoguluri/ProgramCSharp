@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapna.Assignment1", "Swapn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vani.Assignment1", "Vani.Assignment1\Vani.Assignment1.csproj", "{CD1BD9D8-4D39-4F30-B102-C703B175CD9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vani.Assignment2", "Vani.Assignment2\Vani.Assignment2.csproj", "{6A36C74C-F10C-452A-BD45-BBD0FBF928F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +171,10 @@ Global
 		{CD1BD9D8-4D39-4F30-B102-C703B175CD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD1BD9D8-4D39-4F30-B102-C703B175CD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD1BD9D8-4D39-4F30-B102-C703B175CD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A36C74C-F10C-452A-BD45-BBD0FBF928F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A36C74C-F10C-452A-BD45-BBD0FBF928F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A36C74C-F10C-452A-BD45-BBD0FBF928F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A36C74C-F10C-452A-BD45-BBD0FBF928F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -194,5 +200,6 @@ Global
 		{6780B710-78E6-4DD6-BF8C-C5401C16A424} = {3FBCD90F-BDB9-4829-9852-6B5EFA2EAEB8}
 		{1B7F6F02-3362-4686-A0CF-66732CDB6C66} = {8F232C64-CD97-410F-9018-A23348407AA4}
 		{CD1BD9D8-4D39-4F30-B102-C703B175CD9F} = {2884FA45-E68D-4465-85A4-C54B91B2FE4E}
+		{6A36C74C-F10C-452A-BD45-BBD0FBF928F4} = {2884FA45-E68D-4465-85A4-C54B91B2FE4E}
 	EndGlobalSection
 EndGlobal
