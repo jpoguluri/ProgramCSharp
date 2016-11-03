@@ -28,14 +28,21 @@ namespace Vani.Assignment2
             // Console.ReadLine();
 
             // }
-            string inputString = "The Lord is my Shepherd!";
-            char[] inputStringCharArray = inputString.ToCharArray();
-            foreach(char character in inputStringCharArray.Reverse())
-                {
-                Console.Write(character);
-                Console.ReadLine();
+            string Str, Revstr = "";
+            int Length;
+            Console.WriteLine("Enter the string");
+            Str = Console.ReadLine();
+            Length = Str.Length - 1;
+            while(Length >= 0)
+            {
+                Revstr = Revstr + Str[Length];
+                Length--;
+
             }
-          
+
+            Console.WriteLine("Revers String is {0}", Revstr);
+            Console.ReadLine();
+           
         }
     }
 
