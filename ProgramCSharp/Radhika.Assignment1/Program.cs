@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;o 
+using System.Threading.Tasks; 
 
 namespace Radhika.Assignment1
 {
@@ -116,7 +116,7 @@ namespace Radhika.Assignment1
 
                     int j = (answers[x]);
                     int k = inputanswers[x];
-                    Console.WriteLine("{0}                         {1}", j, k);
+                    Console.WriteLine("{0}                         {1}", k,j);
 
                 }
 
