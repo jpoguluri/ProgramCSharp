@@ -145,35 +145,63 @@ namespace anusha.assignment1
             //    Console.WriteLine("Fail");
 
             //Console.ReadLine();
-           
 
-            string[] arrayOfStrings = new string[3];
-            int totalNumOfPalindromes=0 ;
 
-            for (int i = 0; i < arrayOfStrings.Length; i++)
-            {
-                Console.WriteLine("please enter the {0} th element of array", i);
-                arrayOfStrings[i] = Console.ReadLine();
-            }
-            
-            
-            foreach (string word in arrayOfStrings)
-            {
+            //            string[] arrayOfStrings = new string[5];
 
-                Console.WriteLine(word.Reverse());
-                //char[] wordCharArray = word.ToCharArray();
-                //if (wordCharArray == wordCharArray.Reverse())
-                //{
-                    
-                //    count = count + 1;
-                //    Console.WriteLine(wordCharArray);
-                //}
-                
-            }
+            //            int totalNumOfPalindromes = 0;
+            //            string stringOfPalindromes = null;
+            //            int count = 0;
 
-            //Console.WriteLine("The number of Palindrome strings are {0}", count);
-            Console.ReadLine();
+            //            string palindromeString = null;
+            //            for (int i = 0; i < arrayOfStrings.Length; i++)
+            //            {
+            //                Console.WriteLine("Please enter {0}th element of arrayOfStrings", i);
+            //                arrayOfStrings[i] = Console.ReadLine();
+            //            }
+            //            foreach (string word in arrayOfStrings)
+            //            {
+            //                Console.WriteLine(word);
+            //            }
 
+            //            for (int j = 0; j < arrayOfStrings.Length; j++)
+            //            {
+
+            //                char[] stringCharArray = arrayOfStrings[j].ToCharArray();
+            //                for (int k = 0; k < stringCharArray.Length; k++)
+            //                {
+            //                    count = 0;
+
+            //                    if (stringCharArray[k] == stringCharArray[(((stringCharArray.Length) - 1) - k)])
+            //                    {
+
+            //                        //palindromeString = palindromeString + arrayOfStrings[j];
+
+            //                        count = count + 1;
+            //                        //char palindromeCharacters = ' ';
+            //                        //palindromeCharacters = palindromeCharacters + stringCharArray[k];
+            //                        //palindromeString =  palindromeString + (palindromeCharacters.ToString) ; 
+            //                    }
+            //                    else
+            //                    {
+            //                        count = 0;
+            //                        break;
+
+            //                    }
+
+            //                }
+            //                if(count > 0)
+            //                {
+            //                    totalNumOfPalindromes = totalNumOfPalindromes + 1;
+            //                    stringOfPalindromes = arrayOfStrings[j] + "," + stringOfPalindromes;
+            //                }
+
+            //            }
+
+
+            //            Console.WriteLine("The number of Palindrome strings are {0}", totalNumOfPalindromes);
+            //            Console.WriteLine(stringOfPalindromes);
+            //            Console.ReadLine();
         }
     }
 }
