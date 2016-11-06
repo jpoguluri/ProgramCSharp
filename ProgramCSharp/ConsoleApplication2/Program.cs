@@ -12,7 +12,7 @@ namespace ConsoleApplication2
 
         {
             
-            Console.WriteLine("Enter the String ");
+            Console.WriteLine("Enter the String here");
             string s = Console.ReadLine();
             string [] substring = s.Split();                     // Storing the individual string values in to the array
             int x = 0;
