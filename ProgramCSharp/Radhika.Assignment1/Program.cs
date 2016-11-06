@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks; 
+using System.Threading.Tasks;
 
 namespace Radhika.Assignment1
 {
@@ -12,10 +12,9 @@ namespace Radhika.Assignment1
             static void Main()
 
             {
-
                 const int correctAnswer = 10;
-                int[] answers = new int[] {4,2,3,2,1,4,1,2,2,1};
-                /*answers[0] = 4;
+                int[] answers = new int[correctAnswer];
+                answers[0] = 4;
                 answers[1] = 2;
                 answers[2] = 3;
                 answers[3] = 2;
@@ -24,7 +23,7 @@ namespace Radhika.Assignment1
                 answers[6] = 1;
                 answers[7] = 2;
                 answers[8] = 2;
-                answers[9] = 1;*/
+                answers[9] = 1;
 
 
                 int[] inputanswers = new int[correctAnswer];
@@ -116,7 +115,7 @@ namespace Radhika.Assignment1
 
                     int j = (answers[x]);
                     int k = inputanswers[x];
-                    Console.WriteLine("{0}                         {1}", k,j);
+                    Console.WriteLine("{0}                         {1}", j, k);
 
                 }
 
