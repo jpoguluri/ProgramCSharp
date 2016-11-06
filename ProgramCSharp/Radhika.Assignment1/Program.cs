@@ -14,8 +14,8 @@ namespace Radhika.Assignment1
             {
 
                 const int correctAnswer = 10;
-                int[] answers = new int[correctAnswer];
-                answers[0] = 4;
+                int[] answers = new int[] {4,2,3,2,1,4,1,2,2,1};
+                /*answers[0] = 4;
                 answers[1] = 2;
                 answers[2] = 3;
                 answers[3] = 2;
@@ -24,7 +24,7 @@ namespace Radhika.Assignment1
                 answers[6] = 1;
                 answers[7] = 2;
                 answers[8] = 2;
-                answers[9] = 1;
+                answers[9] = 1;*/
 
 
                 int[] inputanswers = new int[correctAnswer];
